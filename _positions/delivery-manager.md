@@ -19,18 +19,18 @@ to enable resources to be appropriately allocated.
 Primarily responsible for:
 
 -   Delivering projects and products using the appropriate agile project
-    > management methodology, learning & iterating frequently
+management methodology, learning & iterating frequently
 
 -   Working with the Product Manager to define the roadmap for any given
-    > product and translating this into user stories
+product and translating this into user stories
 
 -   Leading the collaborative, dynamic planning process -- prioritizing
-    > the work that needs to be done against the capacity and capability
-    > of the team
+the work that needs to be done against the capacity and capability
+of the team
 
 -   Matrix-managing a multi-disciplinary team
 
 -   Ensuring all products are built to an appropriate level of quality
-    > for the stage (alpha/beta/production)
+for the stage (alpha/beta/production)
 
 -   Actively and openly sharing knowledge of best practices

@@ -10,29 +10,29 @@ changes.
 Primarily responsible for:
 
 -   Frontend web development using modern techniques and frameworks
-    > (e.g., HTML5, CSS3, CSS frameworks like LESS and SASS, Responsive
-    > Design, Bourbon, Twitter Bootstrap)
+(e.g., HTML5, CSS3, CSS frameworks like LESS and SASS, Responsive
+Design, Bourbon, Twitter Bootstrap)
 
 -   JavaScript development using modern standards, including strict mode
-    > compliance, modularization techniques and tools, and frameworks
-    > and libraries (e.g., jQuery, MV\* frameworks such as Backbone.js
-    > and Ember.js, D3)
+compliance, modularization techniques and tools, and frameworks
+and libraries (e.g., jQuery, MV\* frameworks such as Backbone.js
+and Ember.js, D3)
 
 -   Consuming RESTful APIs
 
 -   Using and working in team environments that use agile methodologies
-    > (e.g., Scrum, Lean)
+(e.g., Scrum, Lean)
 
 -   Use of version control systems, specifically Git and GitHub
 
 -   Ensuring Section 508 Compliance
 
 -   Quickly researching and learning new programming tools and
-    > techniques
+techniques
 
 -   Using and working with open source solutions and community
 
 -   Creating web layouts from static images
 
 -   Creating views and templates in full-stack frameworks like Rails,
-    > Express, or Django
+Express, or Django

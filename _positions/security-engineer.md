@@ -13,9 +13,9 @@ hacking and fundamental computer science concepts strongly desired.
 Primarily responsible for:
 
 -   Performing security audits, risk analysis, application-level
-    > vulnerability testing, and security code reviews
+vulnerability testing, and security code reviews
 
 -   Develop and implement technical solutions to help mitigate security
-    > vulnerabilities
+vulnerabilities
 
 -   Conduct research to identify new attack vectors

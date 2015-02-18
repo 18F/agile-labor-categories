@@ -6,6 +6,6 @@ layout: template/page
 
 <ul>
 {% for position in site.positions %}
-	<li><a href="{{ position.url }}">{{ position.title }}</a></li>
+	<li><a href="{{site.baseurl}}{{ position.url }}">{{ position.title }}</a></li>
 {% endfor %}
 </ul>

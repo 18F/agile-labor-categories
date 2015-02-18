@@ -14,24 +14,24 @@ Primarily responsible for:
 -   Oversees all visual design efforts
 
 -   Guides, mentors, and coaches team members while leading projects to
-    > successful completion
+successful completion
 
 -   Develops and maintains relationships with key peers in Marketing,
-    > Branding, UX leaders, IT leaders, and others to identify and plan
-    > creative solutions
+Branding, UX leaders, IT leaders, and others to identify and plan
+creative solutions
 
 -   Manages external service resources and budgets for visual design
 
 -   Ensures successful completion of all work executed by the team (on
-    > time, on budget, and ensuring quality)
+time, on budget, and ensuring quality)
 
 -   Ensures compliance with the project management methodologies and the
-    > Project Management Office processes and standards
+Project Management Office processes and standards
 
 -   Develops, maintains, and ensures compliance of application release
-    > management, outage management and change control processes and
-    > standards
+management, outage management and change control processes and
+standards
 
 -   Defines, creates, communicates, and manages resource plans and other
-    > required project documentation such as style guides and provides
-    > updates as necessary
+required project documentation such as style guides and provides
+updates as necessary

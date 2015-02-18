@@ -9,22 +9,22 @@ processing, data storage, and integration with frontend development.
 Primarily responsible for:
 
 -   Web development using open-source web programming languages (e.g.,
-    > Ruby, Python) and frameworks (e.g., Django, Rails)
+Ruby, Python) and frameworks (e.g., Django, Rails)
 
 -   Developing and consuming web-based, RESTful APIs
 
 -   Using and working in team environments that use agile methodologies
-    > (e.g., Scrum, Lean)
+(e.g., Scrum, Lean)
 
 -   Authoring developer-friendly documentation (e.g., API documentation,
-    > deployment operations)
+deployment operations)
 
 -   Test-driven development
 
 -   Use of version control systems, specifically Git and GitHub
 
 -   Quickly researching and learning new programming tools and
-    > techniques
+techniques
 
 -   Relational and non-relational database systems
 

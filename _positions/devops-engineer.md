@@ -11,11 +11,11 @@ best tools and ensuring system uptime and performance.
 Primarily responsible for:
 
 -   Deploying and configuring services using infrastructure as a service
-    > providers (e.g., Amazon Web Services, Microsoft Azure, Google
-    > Compute Engine, RackSpace/OpenStack)
+providers (e.g., Amazon Web Services, Microsoft Azure, Google
+Compute Engine, RackSpace/OpenStack)
 
 -   Configuring and managing Linux-based servers to serve a dynamic
-    > website
+website
 
 -   Debugging cluster-based computing architectures
 
@@ -26,6 +26,6 @@ Primarily responsible for:
 -   Configuration management tools (e.g., Puppet, Chef, Ansible, Salt)
 
 -   Architecture for continuous integration and deployment, and
-    > continuous monitoring
+continuous monitoring
 
 -   Containerization technologies (e.g., LXC, Docker, Rocket)

@@ -16,19 +16,19 @@ from gathering and analysis through to design and presentation.
 Primarily responsible for:
 
 -   Support the Product Manager to make sure their service meets
-    > performance requirements
+performance requirements
 
 -   Communicate service performance against key indicators to internal
-    > and external stakeholders
+and external stakeholders
 
 -   Ensure high-quality analysis of agency transaction data
 
 -   Support the procurement of the necessary digital platforms to
-    > support automated and real-time collection and presentation of
-    > data
+support automated and real-time collection and presentation of
+data
 
 -   Share examples of best practice in digital performance management
-    > across government
+across government
 
 -   Identify delivery obstacles to improving transactional performance
-    > in agencies and working with teams to overcome those obstacles
+in agencies and working with teams to overcome those obstacles

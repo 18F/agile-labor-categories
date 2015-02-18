@@ -12,46 +12,46 @@ products that delight our customers.
 Primarily responsible for:
 
 -   Conduct stakeholder interviews, user requirements analysis, task
-    > analysis, conceptual modeling, information architecture,
-    > interaction design, and usability testing
+analysis, conceptual modeling, information architecture,
+interaction design, and usability testing
 
 -   Design and specify user interfaces and information architecture
 
 -   Lead participatory and iterative design activities, including
-    > observational studies, customer interviews, usability testing, and
-    > other forms of requirements discovery
+observational studies, customer interviews, usability testing, and
+other forms of requirements discovery
 
 -   Produce user requirements specifications & experience goals,
-    > personas, storyboards, scenarios, flowcharts, design prototypes,
-    > and design specifications
+personas, storyboards, scenarios, flowcharts, design prototypes,
+and design specifications
 
 -   Effectively communicate research findings, conceptual ideas,
-    > detailed design, and design rationale and goals both verbally and
-    > visually
+detailed design, and design rationale and goals both verbally and
+visually
 
 -   Plan and facilitate collaborative critiques and analysis & synthesis
-    > working sessions
+working sessions
 
 -   Work closely with visual designers and development teams to ensure
-    > that customer goals are met and design specifications are
-    > delivered upon
+that customer goals are met and design specifications are
+delivered upon
 
 -   Designs and develops primarily internet/web pages and applications
 
 -   Develops proof-of-concepts and prototypes of easy-to-navigate user
-    > interfaces (UIs) that consists of web pages with graphics, icons,
-    > and color schemes that are visually appealing
+interfaces (UIs) that consists of web pages with graphics, icons,
+and color schemes that are visually appealing
 
 -   Researches user needs as well as potential system enhancements
 
 -   Has familiarity to, or may actually: code, test, debug documents,
-    > and implement web applications using a variety of platforms
+and implement web applications using a variety of platforms
 
 -   Planning, recruiting, and facilitating the usability testing of a
-    > system
+system
 
 -   Analyzing and synthesizing the results of usability testing in order
-    > to provide recommendations for change to a system
+to provide recommendations for change to a system
 
 -   May create such artifacts as Usability Testing Plan, Testing
-    > Scripts, and Usability Testing Report
+Scripts, and Usability Testing Report
