@@ -5,10 +5,6 @@
   <span class="post-author-img">
     <img src="https://github.com/{{ author.github }}.png" alt="{{ author.name }}">
   </span>
-  <span class="post-author-name">
-    <a href="https://github.com/{{ author.github }}">{{ author.name }}</a>,
-  </span>
-  <span class="post-date">{{ include.param.date | date: "%-d %b %Y" }} — </span>
   <span class="post-category">
   {% for category in include.param.categories %}
     <span class="post-label"><a href="{{ site.baseurl }}{{ site.posts_path }}/categories/#{{ category }}">{{ category }}</a></span>
