@@ -6,7 +6,7 @@ baseurl: '/hiring'
 
 # Header
 header:
-  logo_text: 18F Consulting
+  logo_text: Hiring @ 18F
   logo_img: logo.svg
 
 # Build settings
