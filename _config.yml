@@ -1,0 +1,25 @@
+# Site settings
+title: 18F Hiring
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to 18F Hiring!
+
+# Header
+header:
+  logo_text: 18F Consulting
+  logo_img: logo.svg
+
+# Build settings
+markdown: kramdown
+
+# Collections
+collections:
+  positions:
+    permalink: /positions/:title/
+    output: true
+
+#Defaults
+defaults:
+  - scope:
+      type: positions
+    values:
+      layout: template/post
