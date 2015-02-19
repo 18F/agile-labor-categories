@@ -37,7 +37,6 @@
         {% if site.edit_page.enabled != false or page.edit_page %}
           <div class="section edit-page">
             <div class="content">
-              <hr>
               <p>
               <a href="https://github.com/{{ site.edit_page.github.author }}/{{ site.edit_page.github.repo }}/edit/{{ site.edit_page.github.branch }}/{{ page.path }}">{{ site.edit_page.text }}</a>
               </p>
@@ -46,13 +45,13 @@
         {% endif %}
       {% endif %}
       
-<!--       <div class="section footer-content">
+      <div class="section footer-content">
         <div class="content">
           {% include footer.html %}
         </div>
       </div>
     </footer>
- -->    
+    
     <script src="{{ "/assets/template/fastclick.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/assets/template/template.js" | prepend: site.baseurl }}"></script>
     {% include scripts.html %}
