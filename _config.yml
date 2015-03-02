@@ -1,12 +1,12 @@
 # Site settings
-title: 18F Hiring
+title: 18F Agile BPA Labor Categories
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to 18F Hiring!
-baseurl: '/hiring'
+  Learn more about 18F's Agile BPA Labor Categories.
+baseurl: '/bpa-categories'
 
 # Header
 header:
-  logo_text: Hiring @ 18F
+  logo_text: 18F Agile BPA Labor Categories
   logo_img: logo.svg
 
 # Build settings
