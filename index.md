@@ -1,5 +1,5 @@
 ---
-title: Types of People You Need for the BPA
+title: Labor Category Descriptions for Agile Procurements
 layout: template/page
 ---
 
