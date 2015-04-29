@@ -24,3 +24,4 @@ defaults:
       type: positions
     values:
       layout: template/post
+deploy: true
